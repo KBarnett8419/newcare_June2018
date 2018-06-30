@@ -1,0 +1,9 @@
+<!--  --><span>Version 4.6.0 is a significant update mainly because the <strong>Professional</strong> edition introduces integration with <strong>Google Drive</strong>, a long waited feature by many users. As regards the <strong>Free</strong> edition, the following improvements are included:
+<ul style="list-style: disc; padding-left: 30px;">
+<li>Improved code in <strong>View Log</strong> so that no links appear to invalid files.</li>
+<li>Improved code in <strong>View Log</strong> so that when the admin opens a file link to view file details, 'go back' button will lead back to the View Log page and not to File Browser.</li>
+<li>Improved code in <strong>Clean Log</strong> button in <strong>Maintenance Actions</strong> so that the admin can select the period of clean-up.</li>
+</ul>
+Furthermore this version includes some bug fixes and security improvements.<br /><br />
+For more details about this version's changes please visit the Release Notes of the plugin's </span><a href="http://www.iptanus.com/wordpress-plugins/wordpress-file-upload/">support page</a><span>.</span><!--  -->
+<!--  -->
